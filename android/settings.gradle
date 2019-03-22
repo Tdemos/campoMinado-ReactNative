@@ -1,0 +1,3 @@
+rootProject.name = 'minas'
+
+include ':app'
